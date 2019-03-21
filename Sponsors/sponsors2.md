@@ -1,3 +1,9 @@
+---
+layout: default
+title: Community Sponsors
+parent: sponsors
+nav_order: 6
+---
 # Community Sponsors
 If communities are to shape how Redgate operates, it’s important they’re aligned with the company. That’s why it’s important for someone senior in Redgate to agree a community is valuable. 
 
