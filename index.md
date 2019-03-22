@@ -1,3 +1,1 @@
-# LevelUp Communities
-
-![](images/levelupcommunities.png)
+![LevelUp Communities](images/levelupcommunities.png)
