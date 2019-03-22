@@ -14,5 +14,5 @@ permalink: /growing
 
 * Wider engagement/recruitment
 * Core leadership role
-* Greater reliance on sub-groups (see “[Getting Things Done]({{ site.baseurl }}{% link getting-things-done/gettng-things-done.md %})”)
+* Greater reliance on sub-groups (see “”)
 
