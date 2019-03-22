@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Community Sponsors
-parent: sponsors
+title: Community Sponsors 2
+parent: Community Sponsors
 nav_order: 6
 ---
 # Community Sponsors
