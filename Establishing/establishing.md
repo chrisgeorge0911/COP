@@ -5,3 +5,5 @@ nav_order: 4
 has_children: true
 permalink: /establishing
 ---
+
+# Establishing a Community of Practice

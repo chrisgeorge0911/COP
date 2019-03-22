@@ -1,2 +1,3 @@
-## HEADING!
-This is the index page
+# LevelUp Communities
+
+![](images/levelupcommunities.png)
