@@ -1,3 +1,9 @@
+---
+layout: default
+title: Why form a Community of Practice?
+nav_order: 3
+description: ""
+---
 # Why form a Community of Practice?
 
 Redgate actively encourages professional development, with programs like Down Tools Week and 10% time. Why are Communities of Practice important alongside this? important alongside this?

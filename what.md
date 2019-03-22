@@ -1,3 +1,9 @@
+---
+layout: default
+title: What’s a Community of Practice?
+nav_order: 2
+description: ""
+---
 # What’s a Community of Practice?
 
 Communities of Practice are a collective of Redgaters who are dedicated to improving how part of Redgate operates.

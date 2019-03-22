@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Forming a Community of Practice
-nav_order: 3
+nav_order: 5
 has_children: true
 permalink: /forming
 ---
