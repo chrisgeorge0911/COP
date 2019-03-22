@@ -4,6 +4,7 @@ title: Getting Sponsored
 parent: Forming a Community of Practice
 nav_order: 3
 ---
+# Getting Sponsored
 For a Community of Practice to do more than run  learning & development activities, they will need a sponsor;  someone representing company leadership or management who agrees with the value the community is trying to provide.
 
 ## What does a sponsor do?

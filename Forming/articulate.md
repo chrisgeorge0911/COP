@@ -4,6 +4,8 @@ title: Articulate the need for a Community of Practice
 parent: Forming a Community of Practice
 nav_order: 2
 ---
+# Articulate the need for a Community of Practice
+
 For Redgate to fully support a Community of Practice, it’s important to present why that community is valuable to Redgate.
 This information should be collated into a Community of Practice one-pager:
 
